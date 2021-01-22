@@ -44,4 +44,4 @@ You can also use the full package name where you want the binding class to be ge
             <variable name="user" type="com.example.generatedbindingclasses.User"/>
         </data>
         
-Complete Code in vieww and activity can see in this repository
+Complete Code in view and activity can see in this repository
